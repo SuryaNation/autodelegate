@@ -1,0 +1,1 @@
+autodelegate script
